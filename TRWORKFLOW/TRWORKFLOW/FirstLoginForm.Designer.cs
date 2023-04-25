@@ -1,6 +1,6 @@
 ﻿namespace TRWORKFLOW
 {
-    partial class MainForm
+    partial class FirstLoginForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FirstLoginForm));
             this.SuspendLayout();
             // 
-            // MainForm
+            // FirstLoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(210, 65);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "MainForm";
-            this.Text = "MainForm";
+            this.Name = "FirstLoginForm";
+            this.Text = "FirstLoginForm";
             this.ResumeLayout(false);
 
         }
@@ -46,4 +46,3 @@
         #endregion
     }
 }
-

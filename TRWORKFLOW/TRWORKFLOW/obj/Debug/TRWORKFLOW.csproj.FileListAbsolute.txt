@@ -9,3 +9,4 @@ C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\TRWORKFLOW
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\TRWORKFLOW.exe
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\TRWORKFLOW.pdb
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\TRWORKFLOW.MainForm.resources
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\TRWORKFLOW.FirstLoginForm.resources
