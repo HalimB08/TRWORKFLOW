@@ -1,0 +1,17 @@
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.Business.deps.json
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.Business.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.Business.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.DataAccess.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\bin\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.csproj.AssemblyReference.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.AssemblyInfoInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.AssemblyInfo.cs
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.csproj.CoreCompileInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.csproj.CopyComplete
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\refint\TRWORKFLOW.Business.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\TRWORKFLOW.Business.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Business\obj\Debug\net6.0\ref\TRWORKFLOW.Business.dll

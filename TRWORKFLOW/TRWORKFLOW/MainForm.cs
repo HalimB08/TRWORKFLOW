@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using TRWORKFLOW.Core.Concrete;
 
 namespace TRWORKFLOW
 {
@@ -15,6 +7,11 @@ namespace TRWORKFLOW
         public MainForm()
         {
             InitializeComponent();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            UserLoginOperations userLoginOperations = new UserLoginOperations();
         }
     }
 }

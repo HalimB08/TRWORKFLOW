@@ -1,0 +1,12 @@
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\bin\Debug\net6.0\TRWORKFLOW.Entities.deps.json
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\bin\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\bin\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.csproj.AssemblyReference.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.AssemblyInfoInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.AssemblyInfo.cs
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\refint\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Entities\obj\Debug\net6.0\ref\TRWORKFLOW.Entities.dll

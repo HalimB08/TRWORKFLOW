@@ -1,0 +1,15 @@
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\bin\Debug\net6.0\TRWORKFLOW.DataAccess.deps.json
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\bin\Debug\net6.0\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\bin\Debug\net6.0\TRWORKFLOW.DataAccess.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\bin\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\bin\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.AssemblyInfo.cs
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.csproj.CopyComplete
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\refint\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\TRWORKFLOW.DataAccess.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.DataAccess\obj\Debug\net6.0\ref\TRWORKFLOW.DataAccess.dll
