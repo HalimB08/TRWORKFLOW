@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TRWORKFLOW.DataAccess\TRWORKFLOW.DataAccess.csproj" />
+    <ProjectReference Include="..\TRWORKFLOW.Entities\TRWORKFLOW.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
