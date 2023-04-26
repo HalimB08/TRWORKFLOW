@@ -8,9 +8,9 @@ namespace TRWORKFLOW.Core.Concrete
 {
     public class UserLoginOperations
     {
-        public void IsItFirstTimeLogin()
+        public bool IsItFirstTimeLogin()
         {
-
+            return true;
         }
     }
 }
