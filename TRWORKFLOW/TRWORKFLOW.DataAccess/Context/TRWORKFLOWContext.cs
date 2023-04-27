@@ -12,7 +12,8 @@ namespace TRWORKFLOW.DataAccess.Context
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=HLMBLC-NW\\SQLEXPRESS;Database=TRWORKFLOW;Trusted_Connection=true;");
+            optionsBuilder.UseSqlServer("Server=HLMBLC-NW\\SQLEXPRESS;Database=TRWORKFLOW;Trusted_Connection=true;TrustServerCertificate=True;");
+            //optionsBuilder.UseSqlServer(@"Data Source=HLMBLC-NW\SQLEXPRESS;Initial Catalog=TRWORKFLOW;Integrated Security=True;");
         }
         public DbSet<User> Users { get; set; }
         public DbSet<UserDetail> UserDetails { get; set; }

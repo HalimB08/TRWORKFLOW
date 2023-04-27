@@ -10,3 +10,10 @@ C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\refint\TRWORKFLOW.Core.dll
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.pdb
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\ref\TRWORKFLOW.Core.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Business.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Business.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.DataAccess.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.csproj.CopyComplete

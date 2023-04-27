@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 using TRWORKFLOW.Business.Abstract;
 using TRWORKFLOW.DataAccess.Context;
 using TRWORKFLOW.Entities.Concrete;
-
 namespace TRWORKFLOW.Business.Concrete
 {
-    public class UserManager : IUserManager
+    public class UserManager : IUserManager<User>
     {
         public void AddUser(User user)
         {
@@ -23,7 +22,16 @@ namespace TRWORKFLOW.Business.Concrete
                 return context.Users.ToList();
             }             
         }
-        public User? GetById(int id)
+        public User? GetFirstData()
+        {
+            using (TRWORKFLOWContext context = new TRWORKFLOWContext())
+            {
+                User? user = context.Users.FirstOrDefault();
+                return user;
+            }
+
+        }
+        public User? GetByID(int id)
         {
             using (TRWORKFLOWContext context = new TRWORKFLOWContext())
             {

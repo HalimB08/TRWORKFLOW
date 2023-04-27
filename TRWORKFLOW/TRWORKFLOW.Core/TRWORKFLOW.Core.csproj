@@ -10,4 +10,8 @@
     <Folder Include="Abstract\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TRWORKFLOW.Business\TRWORKFLOW.Business.csproj" />
+  </ItemGroup>
+
 </Project>
