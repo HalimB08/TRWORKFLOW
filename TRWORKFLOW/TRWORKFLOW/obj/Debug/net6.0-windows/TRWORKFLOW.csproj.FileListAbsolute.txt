@@ -62,3 +62,4 @@ C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-win
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\TRWORKFLOW.Business.pdb
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\TRWORKFLOW.DataAccess.pdb
 C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\MaterialSkin.dll

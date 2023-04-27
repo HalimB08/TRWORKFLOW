@@ -28,20 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FirstLoginForm));
+            materialLabel1 = new MaterialSkin.Controls.MaterialLabel();
             SuspendLayout();
+            // 
+            // materialLabel1
+            // 
+            materialLabel1.AutoSize = true;
+            materialLabel1.Depth = 0;
+            materialLabel1.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            materialLabel1.Location = new Point(345, 78);
+            materialLabel1.MouseState = MaterialSkin.MouseState.HOVER;
+            materialLabel1.Name = "materialLabel1";
+            materialLabel1.Size = new Size(107, 19);
+            materialLabel1.TabIndex = 0;
+            materialLabel1.Text = "materialLabel1";
             // 
             // FirstLoginForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Icon = (Icon)resources.GetObject("$this.Icon");
+            Controls.Add(materialLabel1);
             Name = "FirstLoginForm";
-            Text = "FirstLoginForm";
+            Text = "TRWORKFLOW - Admin Kayıt Ekranı";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private MaterialSkin.Controls.MaterialLabel materialLabel1;
     }
 }
