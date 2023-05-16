@@ -3262,23 +3262,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Halim Bilici\\.nuget\\packages\\": {},
+    "C:\\Users\\hbilici\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
+      "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
       "projectName": "TRWORKFLOW.Business",
-      "projectPath": "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
-      "packagesPath": "C:\\Users\\Halim Bilici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\obj\\",
+      "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
+      "packagesPath": "C:\\Users\\hbilici\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Halim Bilici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hbilici\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3294,11 +3294,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj"
+            "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj"
             },
-            "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
-              "projectPath": "C:\\Users\\Halim Bilici\\Desktop\\Projem\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj"
+            "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
+              "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj"
             }
           }
         }
@@ -3328,7 +3328,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

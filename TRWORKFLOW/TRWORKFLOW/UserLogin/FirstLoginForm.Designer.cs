@@ -188,6 +188,7 @@
             txtPassword.MouseState = MaterialSkin.MouseState.OUT;
             txtPassword.Multiline = false;
             txtPassword.Name = "txtPassword";
+            txtPassword.Password = true;
             txtPassword.Size = new Size(240, 50);
             txtPassword.TabIndex = 4;
             txtPassword.Text = "";
@@ -275,6 +276,7 @@
             btnRegister.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             btnRegister.UseAccentColor = false;
             btnRegister.UseVisualStyleBackColor = true;
+            btnRegister.Click += btnRegister_Click;
             // 
             // lblGender
             // 
@@ -311,6 +313,7 @@
             Controls.Add(materialLabel1);
             Name = "FirstLoginForm";
             Text = "TRWORKFLOW - Admin Kayıt Ekranı";
+            FormClosed += FirstLoginForm_FormClosed;
             ResumeLayout(false);
             PerformLayout();
         }

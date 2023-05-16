@@ -9,7 +9,8 @@
       "TRWORKFLOW/1.0.0": {
         "dependencies": {
           "MaterialSkin.2": "2.3.1",
-          "TRWORKFLOW.Core": "1.0.0"
+          "TRWORKFLOW.Core": "1.0.0",
+          "TRWORKFLOW.Utils": "1.0.0"
         },
         "runtime": {
           "TRWORKFLOW.dll": {}
@@ -578,6 +579,11 @@
         "runtime": {
           "TRWORKFLOW.Entities.dll": {}
         }
+      },
+      "TRWORKFLOW.Utils/1.0.0": {
+        "runtime": {
+          "TRWORKFLOW.Utils.dll": {}
+        }
       }
     }
   },
@@ -1044,6 +1050,11 @@
       "sha512": ""
     },
     "TRWORKFLOW.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRWORKFLOW.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

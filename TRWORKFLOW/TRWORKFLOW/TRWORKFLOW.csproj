@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TRWORKFLOW.Core\TRWORKFLOW.Core.csproj" />
+    <ProjectReference Include="..\TRWORKFLOW.Utils\TRWORKFLOW.Utils.csproj" />
   </ItemGroup>
 
 </Project>

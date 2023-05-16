@@ -10,12 +10,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using TRWORKFLOW.Utils;
+using TRWORKFLOW.Utils.Concrete;
+using System.Globalization;
 
 namespace TRWORKFLOW.UserLogin
 {
     public partial class FirstLoginForm : MaterialForm
     {
         readonly MaterialSkin.MaterialSkinManager materialSkinManager;
+        Constants constants = new Constants();
+        CultureInfo turkishCulture = new CultureInfo("tr-TR");
         public FirstLoginForm()
         {
             InitializeComponent();
@@ -25,19 +30,23 @@ namespace TRWORKFLOW.UserLogin
             materialSkinManager.Theme = MaterialSkin.MaterialSkinManager.Themes.LIGHT;
             materialSkinManager.ColorScheme = new MaterialSkin.ColorScheme(MaterialSkin.Primary.Indigo500, MaterialSkin.Primary.Indigo700, MaterialSkin.Primary.Indigo100, MaterialSkin.Accent.Pink200, MaterialSkin.TextShade.WHITE);
         }
-        public void UpperText(MaterialTextBox tbx, KeyPressEventArgs e, bool UseableTurkishAlphabet = true)
+        public void UpperText(MaterialTextBox tbx, KeyPressEventArgs e, bool isTurkishCharacterEnable = true, bool isUnwantedCharactersEnable = true)
         {
-
-        }
-        public bool DontUseTurkishAlhapeth(KeyPressEventArgs e)
-        {
-            char upperChar = Char.ToUpper(e.KeyChar);
-            if (upperChar < 'A' || upperChar > 'Z')
+            if (!char.IsLetter(e.KeyChar) && e.KeyChar != (char)Keys.Back && !isUnwantedCharactersEnable)
             {
-                e.Handled = true; // Karakter girişini engelle
-                return false;
+                e.Handled = true; // Harf olmayan karakterleri engelle
             }
-            return true;
+            if (!isTurkishCharacterEnable && constants.turkishAlphabet.Contains(turkishCulture.TextInfo.ToUpper(e.KeyChar.ToString())))
+            {
+                e.Handled = true;
+                return;
+            }
+            if (Char.IsLower(e.KeyChar))
+            {
+                string convertedChar = turkishCulture.TextInfo.ToUpper(e.KeyChar.ToString());
+                tbx.SelectedText = convertedChar;
+                e.Handled = true;
+            }
         }
 
         private void txtFirstName_KeyPress(object sender, KeyPressEventArgs e)
@@ -52,7 +61,17 @@ namespace TRWORKFLOW.UserLogin
 
         private void txtUserName_KeyPress(object sender, KeyPressEventArgs e)
         {
-            UpperText(txtUserName, e, false);
+            UpperText(txtUserName, e, false, false);
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Kayıt gerçekleşemedi");
+        }
+
+        private void FirstLoginForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

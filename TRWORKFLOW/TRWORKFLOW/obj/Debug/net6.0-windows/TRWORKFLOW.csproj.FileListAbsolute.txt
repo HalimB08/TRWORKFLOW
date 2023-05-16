@@ -128,3 +128,5 @@ C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\TRWORKFLOW.pdb
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\TRWORKFLOW.genruntimeconfig.cache
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\ref\TRWORKFLOW.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\TRWORKFLOW.Utils.dll
+C:\Users\hbilici\Desktop\t\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\bin\Debug\net6.0-windows\TRWORKFLOW.Utils.pdb
