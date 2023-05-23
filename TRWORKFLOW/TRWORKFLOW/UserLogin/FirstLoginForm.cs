@@ -13,6 +13,8 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using TRWORKFLOW.Utils;
 using TRWORKFLOW.Utils.Concrete;
 using System.Globalization;
+using TRWORKFLOW.Core.Concrete;
+using TRWORKFLOW.Entities.Concrete;
 
 namespace TRWORKFLOW.UserLogin
 {
@@ -34,7 +36,7 @@ namespace TRWORKFLOW.UserLogin
         {
             if (!char.IsLetter(e.KeyChar) && e.KeyChar != (char)Keys.Back && !isUnwantedCharactersEnable)
             {
-                e.Handled = true; // Harf olmayan karakterleri engelle
+                e.Handled = true;
             }
             if (!isTurkishCharacterEnable && constants.turkishAlphabet.Contains(turkishCulture.TextInfo.ToUpper(e.KeyChar.ToString())))
             {
@@ -66,7 +68,16 @@ namespace TRWORKFLOW.UserLogin
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Kayıt gerçekleşemedi");
+            User user = new User();
+            user.FirstName = txtFirstName.Text; 
+            user.LastName = txtLastName.Text;
+            user.UserName = txtUserName.Text;
+            user.BirthDate = DateTime.ParseExact(txtBirthDate.Text, txtBirthDate.Text, CultureInfo.GetCultureInfo("tr-TR"));
+            user.Authority = 0;
+            user.IsActive = true;
+            user.Gender = cmbGender.Text;
+            UserRegisterOperations userRegisterOperations = new UserRegisterOperations();
+            userRegisterOperations.RegisterAdminUser(user);
         }
 
         private void FirstLoginForm_FormClosed(object sender, FormClosedEventArgs e)

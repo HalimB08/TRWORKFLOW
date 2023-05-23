@@ -10,7 +10,7 @@ Password NVARCHAR(300) NOT NULL,
 BirthDate DATETIME NOT NULL,
 Gender NVARCHAR(4) NOT NULL,
 Authority INT,
-IsActive CHAR
+IsActive BIT
 CONSTRAINT
 Users_ID_PK PRIMARY KEY (ID)
 );

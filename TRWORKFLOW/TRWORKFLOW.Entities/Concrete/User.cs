@@ -18,6 +18,6 @@ namespace TRWORKFLOW.Entities.Concrete
         public DateTime BirthDate { get; set; }
         public string? Gender { get; set; }
         public int Authority { get; set; }
-        public char IsActive { get; set; }
+        public bool IsActive { get; set; }
     }
 }

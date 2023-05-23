@@ -12,7 +12,11 @@ namespace TRWORKFLOW.Business.Concrete
     {
         public void AddUser(User user)
         {
-            throw new NotImplementedException();
+            using (TRWORKFLOWContext context = new TRWORKFLOWContext())
+            {
+                context.Users.Add(user);
+                context.SaveChanges();
+            }
         }
 
         public List<User> GetAll()
