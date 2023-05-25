@@ -17,6 +17,11 @@ namespace TRWORKFLOW
                 FirstLoginForm firstLoginForm = new FirstLoginForm();
                 firstLoginForm.Show();
             }
+            if (!userLoginOperations.IsItFirstTimeLogin())
+            {
+                UserLoginForm userLoginForm = new UserLoginForm();
+                userLoginForm.Show();
+            }
         }
 
         private void MainForm_Shown(object sender, EventArgs e)

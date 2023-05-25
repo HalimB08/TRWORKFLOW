@@ -76,6 +76,7 @@ namespace TRWORKFLOW.UserLogin
             user.Authority = 0;
             user.IsActive = true;
             user.Gender = cmbGender.Text;
+            user.Password = txtPassword.Text;
             UserRegisterOperations userRegisterOperations = new UserRegisterOperations();
             userRegisterOperations.RegisterAdminUser(user);
         }
