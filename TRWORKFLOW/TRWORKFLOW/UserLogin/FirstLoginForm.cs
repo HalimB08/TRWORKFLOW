@@ -23,6 +23,7 @@ namespace TRWORKFLOW.UserLogin
         readonly MaterialSkin.MaterialSkinManager materialSkinManager;
         Constants constants = new Constants();
         CultureInfo turkishCulture = new CultureInfo("tr-TR");
+        public bool formClose = false;
         public FirstLoginForm()
         {
             InitializeComponent();
@@ -68,21 +69,39 @@ namespace TRWORKFLOW.UserLogin
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-            User user = new User();
-            user.FirstName = txtFirstName.Text; 
-            user.LastName = txtLastName.Text;
-            user.UserName = txtUserName.Text;
-            user.BirthDate = DateTime.ParseExact(txtBirthDate.Text, txtBirthDate.Text, CultureInfo.GetCultureInfo("tr-TR"));
-            user.Authority = 0;
-            user.IsActive = true;
-            user.Gender = cmbGender.Text;
-            user.Password = txtPassword.Text;
-            UserRegisterOperations userRegisterOperations = new UserRegisterOperations();
-            userRegisterOperations.RegisterAdminUser(user);
+            try
+            {
+                User user = new User();
+                user.FirstName = txtFirstName.Text;
+                user.LastName = txtLastName.Text;
+                user.UserName = txtUserName.Text;
+                user.BirthDate = DateTime.ParseExact(txtBirthDate.Text, "dd.MM.yyyy", CultureInfo.GetCultureInfo("tr-TR"));
+                user.Authority = 0;
+                user.IsActive = true;
+                user.Gender = cmbGender.Text;
+                user.Password = txtPassword.Text;
+                user.Mail = txtMail.Text;
+                UserRegisterOperations userRegisterOperations = new UserRegisterOperations();
+                userRegisterOperations.RegisterAdminUser(user);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Kayıt gerçekleştirirken bir sorun meydana geldi.");
+                return;
+            }
+            UserLoginForm userLoginForm = new UserLoginForm();
+            userLoginForm.Show();
+            formClose = true;
+            this.Close();
+
         }
 
         private void FirstLoginForm_FormClosed(object sender, FormClosedEventArgs e)
         {
+            if (formClose)
+            {
+                return;
+            }
             Application.Exit();
         }
     }
