@@ -3268,11 +3268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
+      "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
       "projectName": "TRWORKFLOW.Business",
-      "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
+      "projectPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\TRWORKFLOW.Business.csproj",
       "packagesPath": "C:\\Users\\hbilici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\obj\\",
+      "outputPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3294,11 +3294,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj"
+            "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.DataAccess\\TRWORKFLOW.DataAccess.csproj"
             },
-            "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
-              "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj"
+            "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
+              "projectPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj"
             }
           }
         }

@@ -36,3 +36,22 @@ C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\D
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\refint\TRWORKFLOW.Core.dll
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.pdb
 C:\Users\Halim Bilici\Desktop\Projem\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\ref\TRWORKFLOW.Core.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Core.deps.json
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Core.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Core.pdb
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Business.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.DataAccess.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Entities.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Business.pdb
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.DataAccess.pdb
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\bin\Debug\net6.0\TRWORKFLOW.Entities.pdb
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.csproj.AssemblyReference.cache
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.AssemblyInfoInputs.cache
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.AssemblyInfo.cs
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.csproj.CopyComplete
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\refint\TRWORKFLOW.Core.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\TRWORKFLOW.Core.pdb
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW.Core\obj\Debug\net6.0\ref\TRWORKFLOW.Core.dll

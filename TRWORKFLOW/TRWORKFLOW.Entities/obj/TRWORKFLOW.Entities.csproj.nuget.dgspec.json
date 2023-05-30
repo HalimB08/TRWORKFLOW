@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {}
+    "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
+    "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
         "projectName": "TRWORKFLOW.Entities",
-        "projectPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
+        "projectPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
         "packagesPath": "C:\\Users\\hbilici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\obj\\",
+        "outputPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

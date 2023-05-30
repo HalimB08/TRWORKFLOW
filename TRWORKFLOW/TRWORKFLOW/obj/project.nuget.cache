@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGTTidepWahHRMbmYP06XNqB0H8b4ZJtSaut+rE8DHucdkGngiDhMTDNpRgxCBo7pE7b1nUq24yHnQbN+iYQgQ==",
+  "dgSpecHash": "7Yq3iqRXqc5KY+k1AIzGM7SJPZwUHb5N8Dx+lior2e+YEoVwlhoxtdLk/WIsL/Qg4lvVb+pyyAtwYc6LVcvXRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hbilici\\Desktop\\t\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.csproj",
+  "projectFilePath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hbilici\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hbilici\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
