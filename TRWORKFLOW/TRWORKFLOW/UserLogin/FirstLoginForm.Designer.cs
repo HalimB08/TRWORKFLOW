@@ -314,6 +314,7 @@
             Name = "FirstLoginForm";
             Text = "TRWORKFLOW - Admin Kayıt Ekranı";
             FormClosed += FirstLoginForm_FormClosed;
+            Load += FirstLoginForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }

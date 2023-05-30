@@ -104,5 +104,10 @@ namespace TRWORKFLOW.UserLogin
             }
             Application.Exit();
         }
+
+        private void FirstLoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

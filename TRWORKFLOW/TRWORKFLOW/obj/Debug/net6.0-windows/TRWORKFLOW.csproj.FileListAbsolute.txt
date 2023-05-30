@@ -199,3 +199,4 @@ C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-wi
 C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\TRWORKFLOW.pdb
 C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\TRWORKFLOW.genruntimeconfig.cache
 C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\ref\TRWORKFLOW.dll
+C:\Users\hbilici\Desktop\tt\TRWORKFLOW\TRWORKFLOW\TRWORKFLOW\obj\Debug\net6.0-windows\TRWORKFLOW.Screens.AdminForm.resources

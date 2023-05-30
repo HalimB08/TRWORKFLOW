@@ -9,8 +9,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Globalization;
 using TRWORKFLOW.Utils.Concrete;
+using TRWORKFLOW.Core.Concrete;
+using TRWORKFLOW.Screens;
+using TRWORKFLOW.Entities.Concrete;
 
 namespace TRWORKFLOW.UserLogin
 {
@@ -53,12 +55,42 @@ namespace TRWORKFLOW.UserLogin
         }
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            UserLoginOperations userLoginOperations = new UserLoginOperations();
+            User? user = userLoginOperations.GetUserLoginInfo(txtUserName.Text, txtUserPassword.Text);
+            if (user == null)
+            {
+                MessageBox.Show("Kullanıcı Girişi Yapılamadı. Kullanıcı Adı veya Şifre yanlış!", "TRWORKFLOW Uyarı");
+                return;
+            }
+            MainForm.UserName = txtUserName.Text;
+            IsFormClosed = false;
+            if (user.Authority == 0)
+            {
+                AdminForm adminForm = new AdminForm();
+                adminForm.Show();
+            }
+            if (user.Authority == 1)
+            {
 
+            }
+            if (user.Authority == 2)
+            {
+
+            }
+            this.Close();
         }
-
+        public bool IsFormClosed = true;
         private void txtUserName_KeyPress(object sender, KeyPressEventArgs e)
         {
             UpperText(txtUserName, e, false, false);
+        }
+
+        private void UserLoginForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            if (IsFormClosed)
+            {
+                Application.Exit();
+            }
         }
     }
 }

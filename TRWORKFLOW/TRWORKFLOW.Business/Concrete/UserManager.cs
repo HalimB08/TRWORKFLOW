@@ -33,7 +33,14 @@ namespace TRWORKFLOW.Business.Concrete
                 User? user = context.Users.FirstOrDefault();
                 return user;
             }
-
+        }
+        public User? GetUserData(string userName, string userPassword)
+        {
+            using (TRWORKFLOWContext context = new TRWORKFLOWContext())
+            {
+                User? user = context.Users.FirstOrDefault(u => u.UserName == userName && u.Password == userPassword);
+                return user;
+            }
         }
         public User? GetByID(int id)
         {

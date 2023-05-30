@@ -4,6 +4,7 @@ namespace TRWORKFLOW
 {
     public partial class MainForm : Form
     {
+        public static string UserName = "";
         public MainForm()
         {
             InitializeComponent();

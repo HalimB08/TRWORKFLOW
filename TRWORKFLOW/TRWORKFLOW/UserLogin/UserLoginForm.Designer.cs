@@ -165,6 +165,7 @@
             Controls.Add(materialLabel1);
             Name = "UserLoginForm";
             Text = "TRWORKFLOW - Kullanıcı Giriş Ekranı";
+            FormClosed += UserLoginForm_FormClosed;
             Load += UserLoginForm_Load;
             ResumeLayout(false);
             PerformLayout();
