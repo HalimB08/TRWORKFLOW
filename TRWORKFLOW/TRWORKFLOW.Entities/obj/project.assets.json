@@ -568,11 +568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\hbilici\\source\\repos\\HalimB08\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
       "projectName": "TRWORKFLOW.Entities",
-      "projectPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
+      "projectPath": "C:\\Users\\hbilici\\source\\repos\\HalimB08\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
       "packagesPath": "C:\\Users\\hbilici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\obj\\",
+      "outputPath": "C:\\Users\\hbilici\\Source\\Repos\\HalimB08\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -627,7 +627,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

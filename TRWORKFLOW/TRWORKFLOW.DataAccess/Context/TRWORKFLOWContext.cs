@@ -16,6 +16,6 @@ namespace TRWORKFLOW.DataAccess.Context
             //optionsBuilder.UseSqlServer(@"Data Source=HLMBLC-NW\SQLEXPRESS;Initial Catalog=TRWORKFLOW;Integrated Security=True;");
         }
         public DbSet<User> Users { get; set; }
-        public DbSet<UserDetail> UserDetails { get; set; }
+        public DbSet<UserDetail> UserDetails { get; set; } 
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/XoqxVmyudpyjDEzJKczRU7AR5DI1OUkSlHtYMngexWkpAVxjsYNfWc/OI2tvdXp83v+t/KKGS4L2vz7BJ31g==",
+  "dgSpecHash": "LkA3yWmIZKO61fnkukQJUYtj1nZGm9cSC4Hs4o7y3FPSFnjCR6FhGCed19+dgZH8lgL8wfj/lnY80jZK0gQb7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hbilici\\Desktop\\tt\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
+  "projectFilePath": "C:\\Users\\hbilici\\source\\repos\\HalimB08\\TRWORKFLOW\\TRWORKFLOW\\TRWORKFLOW.Entities\\TRWORKFLOW.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hbilici\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\hbilici\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
